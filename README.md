@@ -7,3 +7,5 @@ This Python script scrapes the first 6 projects under the "Projects Registered" 
 3. Promoter Name (Company Name)
 4. Promoter Address (Registered Office Address)
 5. GST No
+
+The dependencies that need to be installed are listed in the requirements.txt file.
